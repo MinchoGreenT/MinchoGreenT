@@ -66,8 +66,8 @@
 
 ---
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinchoGreenT&layout=compact"/>
-<img src="https://github-readme-stats.vercel.app/api?username=MinchoGreenT&show_icons=true"/><br/>
+<img width=400px height=200px src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinchoGreenT&layout=compact"/>
+<img width=400px height=200px src="https://github-readme-stats.vercel.app/api?username=MinchoGreenT&show_icons=true"/><br/>
   </p>
 <p align="start">
   <a href="https://solved.ac/profile/dldmstjq99">
