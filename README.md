@@ -16,7 +16,7 @@
 
 ---
 
-### Tech Stacks
+### 🛠️ Tech Stacks 🛠️
 
 ### Languages
 <p>
