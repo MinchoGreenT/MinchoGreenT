@@ -42,7 +42,6 @@
 <img src="https://img.shields.io/badge/Pycharm-000000?style=flat-square&logo=Pycharm&logoColor=FFFFFF" width=auto height=23px/>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=FFFFFF" width=auto height=23px/>
 <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=FFFFFF" width=auto height=23px/>
-<img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=FFFFFF" width=auto height=23px/> 
 <br/>
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon ec2&logoColor=FFFFFF" width=auto height=23px/> 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=FFFFFF" width=auto height=23px/>   
@@ -57,6 +56,7 @@
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=FFFFFF" width=auto height=23px/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=FFFFFF" width=auto height=23px/>
+<img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=FFFFFF" width=auto height=23px/> 
 </p>
 
 ---
