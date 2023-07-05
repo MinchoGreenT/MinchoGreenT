@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About Me 👨‍💻
 
-- 💻 I am majoring in software at Gachon University since 2019
+- 💻 Majoring in software at Gachon University.
 - 📚 I'm studying Spring, Flutter, Cloud Engineering
 - 💬 Email: dldmstjqt99@gmail.com
 
