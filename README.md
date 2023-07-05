@@ -1,8 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=MinchoGreenT&fontSize=90" />
 ### 👨‍💻 About Me 👨‍💻
 
----
-
 - 💻 I am majoring in software at Gachon University since 2019.
 - 📚 I'm studying Spring, Flutter, Cloud Services
 - 💬 Email: dldmstjqt99@gmail.com
@@ -10,8 +8,6 @@
 ---
 
 ### Career
-
----
 
 - Gachon University (2019.03 ~ )
 - University MakeUs Challenge (2022.09 ~ )
