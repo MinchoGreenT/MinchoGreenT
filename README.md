@@ -66,9 +66,9 @@
 
 ---
 <p algin="center">
-<img width=400px height=200px src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinchoGreenT&layout=compact"/>
-<img width=400px height=200px src="https://github-readme-stats.vercel.app/api?username=MinchoGreenT&show_icons=true"/><br/>
-  </p>
+<img width=300px height=150px src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinchoGreenT&layout=compact"/>
+<img width=300px height=150px src="https://github-readme-stats.vercel.app/api?username=MinchoGreenT&show_icons=true"/><br/>
+</p>
 <p align="center">
   <a href="https://solved.ac/profile/dldmstjq99">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dldmstjq99">
