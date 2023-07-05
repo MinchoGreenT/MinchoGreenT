@@ -65,16 +65,13 @@
 </p>
 
 ---
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinchoGreenT&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=MinchoGreenT&show_icons=true">
 <p align="start">
   <a href="https://solved.ac/profile/dldmstjq99">
-    <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dldmstjq99">
+    <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dldmstjq99">
   </a>
 </p>
-<img width=100px height=50px src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinchoGreenT&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=MinchoGreenT&show_icons=true">
-[![MinchoGreenT github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MinchoGreenT&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=merko)](https://github.com/MinchoGreenT)
-
 
 <!--
 **RyuKwanKon/RyuKwanKon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
