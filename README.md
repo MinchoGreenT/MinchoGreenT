@@ -7,6 +7,8 @@
 - 📚 I'm studying Spring, Flutter, Cloud Services
 - 💬 Email: dldmstjqt99@gmail.com
 
+---
+
 ### Career
 
 ---
