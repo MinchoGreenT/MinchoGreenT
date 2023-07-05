@@ -8,7 +8,7 @@
 
 ---
 
-### Career
+### 📑 Career 📑
 
 - Gachon University (2019.03 ~ )
 - University MakeUs Challenge (2022.09 ~ )
@@ -16,7 +16,7 @@
 
 ---
 
-### Languages
+### 📝 Languages 📝
 <p>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=FFFFFF" width=auto height=23px/>
 <img src="https://img.shields.io/badge/Java-FF9900?style=flat-square&logo=JAVA&logoColor=FFFFFF" width=auto height=23px/>
