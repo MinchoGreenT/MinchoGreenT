@@ -65,8 +65,10 @@
 </p>
 
 ---
+<p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinchoGreenT&layout=compact"/>
 <img src="https://github-readme-stats.vercel.app/api?username=MinchoGreenT&show_icons=true"/><br/>
+  </p>
 <p align="start">
   <a href="https://solved.ac/profile/dldmstjq99">
     <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dldmstjq99">
