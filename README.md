@@ -66,7 +66,7 @@
 
 ---
 <p align="center">
-  <img width=350px height=170px src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinchoGreenT&layout=compact"/>
+  <img align='left' width=350px height=170px src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinchoGreenT&layout=compact"/>
   <a href="https://solved.ac/profile/dldmstjq99">
     <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dldmstjq99">
   </a>
