@@ -46,6 +46,7 @@
 <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=FFFFFF" width=auto height=23px/>
 <br/>
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon ec2&logoColor=FFFFFF" width=auto height=23px/> 
+<img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=Amazon RDS&logoColor=FFFFFF" width=auto height=23px/> 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=FFFFFF" width=auto height=23px/>   
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=FFFFFF" width=auto height=23px/> 
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=FFFFFF" width=auto height=23px/> 
