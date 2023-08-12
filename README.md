@@ -4,7 +4,7 @@
 
 - 💻 Majoring in software at Gachon University.
 - 📚 I'm studying Spring, Flutter, Cloud Engineering
-- 💬 Email: dldmstjqt99@gmail.com
+- 💬 Email: dldmstjq99@gmail.com
 
 ---
 
