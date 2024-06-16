@@ -3,7 +3,7 @@
 ### 👨‍💻 About Me 👨‍💻
 
 - 💻 Majoring in software at Gachon University.
-- 📚 I'm studying Spring, Flutter, Cloud Engineering
+- 📚 I'm studying Spring, Infra, Kubernetes, Cloud Engineering
 - 💬 Email: dldmstjq99@gmail.com
 
 ---
@@ -13,6 +13,8 @@
 - Gachon University (2019.03 ~ )
 - University MakeUs Challenge (2022.09 ~ )
 - Modugarden (2022.12 ~ 2023.03)
+- Farmus (2023.10 ~ )
+- Gachon SW Academy(2024.03 ~ )
 
 ---
 
@@ -33,8 +35,6 @@
 <p>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=FFFFFF" width=auto height=23px/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=FFFFFF" width=auto height=23px/>
-<img src="https://img.shields.io/badge/Jetpack Compose-4285F4?style=flat-square&logo=Jetpack Compose&logoColor=FFFFFF" width=auto height=23px/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=FFFFFF" width=auto height=23px/>
 </p>
 
 ### Tools 
