@@ -63,14 +63,6 @@
 <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=FFFFFF" width=auto height=23px/> 
 </p>
 
----
-<p align="start">
-  <img width=350px height=170px src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinchoGreenT&layout=compact"/>
-  <a href="https://solved.ac/profile/dldmstjq99">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dldmstjq99">
-  </a>
-</p>
-
 <!--
 **RyuKwanKon/RyuKwanKon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
