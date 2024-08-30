@@ -15,7 +15,8 @@
 - Modugarden (2022.12 ~ 2023.03)
 - 28th KUSITMS (2023.08 ~ 2023.11)
 - Farmus (2023.09 ~ 2023.11)
-- Gachon SW Academy(2024.03 ~ 2024.08)
+- Gachon SW Academy (2024.03 ~ 2024.08)
+- Team Bootstrap (2024.03 ~ )
 
 ---
 
