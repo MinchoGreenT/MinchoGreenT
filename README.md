@@ -22,30 +22,22 @@
 ### 🛠️ Tech Stacks 🛠️
 
 ### Languages, OS
-<p>
 - C, Java, Python, Javascript, Gradle
 - Linux, Ubuntu, CentOS, MacOS
-</p>
 
 ### Libraries & Frameworks
-<p>
 - Spring, Spring WebFlux, Spring Cloud Gateway
 - FastAPI
-</p>
 
 ### Tools
-<p>
 - Kubernetes, Docker, Jenkins, GitHub Action, ArgoCD
 - Kafka, Airflow, ETL
 - MySQL, MongoDB, Redis, Pinecone, ElasticSearch
 - AWS, Azure, OCI, Kakao i Cloud
 - Elastic APM, Kibana, Grafana
-</p>
 
 ### ETC.
-<p>
 - Git, GitHub, Jira, Slack, Notion, Confluence, Figma
-</p>
 
 <!--
 **RyuKwanKon/RyuKwanKon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
