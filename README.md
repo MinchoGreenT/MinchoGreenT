@@ -3,7 +3,7 @@
 ### 👨‍💻 About Me 👨‍💻
 
 - 💻 Majoring in software at Gachon University.
-- 📚 I'm studying Spring, Infra, Kubernetes, Cloud Engineering
+- 📚 I'm studying Backend(Java Spring, Spring WebFlux, FastAPI), DevOps, Cloud Engineering
 - 💬 Email: dldmstjq99@gmail.com
 
 ---
@@ -11,10 +11,11 @@
 ### 📑 Career 📑
 
 - Gachon University (2019.03 ~ )
-- University MakeUs Challenge (2022.09 ~ )
+- 3rd Gachon University MakeUs Challenge 3rd (2022.09 ~ 2023.02)
 - Modugarden (2022.12 ~ 2023.03)
-- Farmus (2023.10 ~ )
-- Gachon SW Academy(2024.03 ~ )
+- 28th KUSITMS (2023.08 ~ 2023.11)
+- Farmus (2023.09 ~ 2023.11)
+- Gachon SW Academy(2024.03 ~ 2024.08)
 
 ---
 
@@ -40,7 +41,6 @@
 ### Tools 
 <p>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=FFFFFF" width=auto height=23px/>
-<img src="https://img.shields.io/badge/androidstudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=FFFFFF" width=auto height=23px/>
 <img src="https://img.shields.io/badge/Pycharm-000000?style=flat-square&logo=Pycharm&logoColor=FFFFFF" width=auto height=23px/>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=FFFFFF" width=auto height=23px/>
 <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=FFFFFF" width=auto height=23px/>
