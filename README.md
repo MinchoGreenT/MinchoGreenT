@@ -21,46 +21,30 @@
 
 ### 🛠️ Tech Stacks 🛠️
 
-### Languages
+### Languages, OS
 <p>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=FFFFFF" width=auto height=23px/>
-<img src="https://img.shields.io/badge/Java-FF9900?style=flat-square&logo=JAVA&logoColor=FFFFFF" width=auto height=23px/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF" width=auto height=23px/>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=FFFFFF" width=auto height=23px/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=FFFFFF" width=auto height=23px/>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" width=auto height=23px/>
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" width=auto height=23px/>
+- C, Java, Python, Javascript, Gradle
+- Linux, Ubuntu, CentOS, MacOS
 </p>
 
 ### Libraries & Frameworks
 <p>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=FFFFFF" width=auto height=23px/>
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=FFFFFF" width=auto height=23px/>
+- Spring, Spring WebFlux, Spring Cloud Gateway
+- FastAPI
 </p>
 
-### Tools 
+### Tools
 <p>
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=FFFFFF" width=auto height=23px/>
-<img src="https://img.shields.io/badge/Pycharm-000000?style=flat-square&logo=Pycharm&logoColor=FFFFFF" width=auto height=23px/>
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=FFFFFF" width=auto height=23px/>
-<img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=FFFFFF" width=auto height=23px/>
-<br/>
-<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon ec2&logoColor=FFFFFF" width=auto height=23px/> 
-<img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=Amazon RDS&logoColor=FFFFFF" width=auto height=23px/> 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=FFFFFF" width=auto height=23px/>   
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=FFFFFF" width=auto height=23px/> 
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=FFFFFF" width=auto height=23px/> 
-<br/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=FFFFFF" width=auto height=23px/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=FFFFFF" width=auto height=23px/>
-<img src="https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=FFFFFF" width=auto height=23px/>
+- Kubernetes, Docker, Jenkins, GitHub Action, ArgoCD
+- Kafka, Airflow, ETL
+- MySQL, MongoDB, Redis, Pinecone, ElasticSearch
+- AWS, Azure, OCI, Kakao i Cloud
+- Elastic APM, Kibana, Grafana
 </p>
 
 ### ETC.
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=FFFFFF" width=auto height=23px/>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=FFFFFF" width=auto height=23px/>
-<img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=FFFFFF" width=auto height=23px/> 
+- Git, GitHub, Jira, Slack, Notion, Confluence, Figma
 </p>
 
 <!--
