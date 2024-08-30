@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Lee Eun Seob&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=LeeEunSeob&fontSize=90" />
 
 ### 👨‍💻 About Me 👨‍💻
 
