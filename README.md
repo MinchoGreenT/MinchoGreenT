@@ -32,7 +32,7 @@
 
 ### Tools
 - Kubernetes, Docker, Jenkins, GitHub Action, ArgoCD
-- Kafka, Airflow, ETL
+- Kafka, Airflow, ELK
 - MySQL, MongoDB, Redis, Pinecone, ElasticSearch
 - AWS, Azure, OCI, Kakao i Cloud
 - Elastic APM, Kibana, Grafana
