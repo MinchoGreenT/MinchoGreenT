@@ -3,7 +3,7 @@
 ### 👨‍💻 About Me 👨‍💻
 
 - 💻 Majoring in software at Gachon University.
-- 📚 I'm studying Backend(Java Spring, Spring WebFlux, FastAPI), DevOps, Cloud Engineering
+- 📚 I'm studying Backend Engineering(Spring, FastAPI, Go, ...)
 - 💬 Email: dldmstjq99@gmail.com
 
 ---
@@ -17,6 +17,7 @@
 - Farmus (2023.09 ~ 2023.11)
 - Gachon SW Academy (2024.03 ~ 2024.08)
 - Team Bootstrap (2024.03 ~ )
+- DKTechin(Intern) (2024.10 ~ 2024.12)
 
 ---
 
@@ -27,30 +28,13 @@
 - Linux, Ubuntu, CentOS, MacOS
 
 ### Libraries & Frameworks
-- Spring, Spring WebFlux, Spring Cloud Gateway
-- FastAPI
+- Spring, Spring Webflux, FastAPI, Vue
 
 ### Tools
 - Kubernetes, Docker, Jenkins, GitHub Action, ArgoCD
-- Kafka, Airflow, ELK
 - MySQL, MongoDB, Redis, Pinecone, ElasticSearch
-- AWS, Azure, OCI, Kakao i Cloud
-- Elastic APM, Kibana, Grafana
+- AWS, Azure, Kakao i Cloud
+- Elastic APM, ELK
 
 ### ETC.
 - Git, GitHub, Jira, Slack, Notion, Confluence, Figma
-
-<!--
-**RyuKwanKon/RyuKwanKon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
