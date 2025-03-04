@@ -10,8 +10,8 @@
 
 ### 📑 Career 📑
 
-- Gachon University (2019.03 ~ )
-- 3rd Gachon University MakeUs Challenge 3rd (2022.09 ~ 2023.02)
+- Gachon University (2019.03 ~ 2025.02)
+- 3rd Gachon University MakeUs Challenge (2022.09 ~ 2023.02)
 - Modugarden (2022.12 ~ 2023.03)
 - 28th KUSITMS (2023.08 ~ 2023.11)
 - Farmus (2023.09 ~ 2023.11)
@@ -24,17 +24,17 @@
 ### 🛠️ Tech Stacks 🛠️
 
 ### Languages, OS
-- C, Java, Python, Javascript, Gradle
-- Linux, Ubuntu, CentOS, MacOS
+- C, Java, Python, Javascript, Gradle, Go
+- Linux, Ubuntu, MacOS, CentOS
 
 ### Libraries & Frameworks
 - Spring, Spring Webflux, FastAPI, Vue
 
 ### Tools
-- Kubernetes, Docker, Jenkins, GitHub Action, ArgoCD
-- MySQL, MongoDB, Redis, Pinecone, ElasticSearch
-- AWS, Azure, Kakao i Cloud
-- Elastic APM, ELK
+- Build & Deploy: Kubernetes, Docker, Jenkins, GitHub Action, ArgoCD
+- Database: MySQL, MongoDB, Redis, Pinecone, ElasticSearch
+- CSP: AWS, Azure, Kakao i Cloud
+- Monitoring, Observability: Elastic APM, ELK
 
 ### ETC.
 - Git, GitHub, Jira, Slack, Notion, Confluence, Figma
